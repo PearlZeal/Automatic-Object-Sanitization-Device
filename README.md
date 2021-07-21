@@ -16,5 +16,5 @@ The code used for the project
  - [ ] App code
  - [ ] Screenshorts of the outputs
  - [ ] Video of the working prototype
- 
+ ####
 :coffee:    

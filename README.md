@@ -15,6 +15,6 @@ The code used for the project
  - [ ] Firebase input and outputs
  - [ ] App code
  - [ ] Screenshorts of the outputs
- - [ ] Video of the working prototype
+ - [x] Video of the working prototype
  ####
 :coffee:    
